@@ -78,7 +78,7 @@ A machine learning project focused on identifying customers who may be likely to
 
 **Tech stack:** Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
-🔗 [View ImmuTrack on GitHub]()
+🔗 [View ImmuTrack on GitHub](https://github.com/atharvagadakh2511/customer-churn-prediction)
 
 ## 💼 Experience
 
