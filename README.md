@@ -78,7 +78,7 @@ A machine learning project focused on identifying customers who may be likely to
 
 **Tech stack:** Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
-> Add the GitHub repository link here once this project is published.
+🔗 [View ImmuTrack on GitHub]()
 
 ## 💼 Experience
 
